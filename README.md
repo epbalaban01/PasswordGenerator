@@ -34,4 +34,5 @@ Programı geliştirmek istiyorsanız indirip geliştirebilirsiniz. Programın ya
 #
 <b>Programcıdan Notlar</b>
 > <b>Öneriler, istekler ve sorunların varsa lütfen bize ulaşın! :)</b>
+
 > Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun.
