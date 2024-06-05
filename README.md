@@ -16,9 +16,12 @@ Programı geliştirmek istiyorsanız indirip geliştirebilirsiniz. Programın ya
 
 <h2>🧐 Özellikler</h2>
 
-![Ek Açıklama 2021-06-04 223355](https://user-images.githubusercontent.com/42430554/120863174-ca02a480-c592-11eb-9171-52b07ae9b22b.jpg)
-
-![Ek Açıklama 2021-06-04 223411](https://user-images.githubusercontent.com/42430554/120863185-ccfd9500-c592-11eb-9a6c-c331ad958510.jpg)
+![Screenshot_1](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/19fda60b-beb6-4d5d-b8c4-bb30d5b6d7d8)
+![Screenshot_2](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/c49735c8-9f46-4cca-9f52-bb5fff2ba5e2)
+![Screenshot_3](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/8ac39318-b570-4f67-a919-fe7e2f825d43)
+![Screenshot_4](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/e0e2e0f4-591e-4e12-9326-3f0711e3108b)
+![Screenshot_5](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/fc7cd66e-c352-4120-bd26-883ede241e7b)
+![Screenshot_6](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/db7c628d-2cdd-45cf-8686-708791bfb16a)
 
 #
 <b>Programcıdan Notlar</b>
