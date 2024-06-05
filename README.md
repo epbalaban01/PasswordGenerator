@@ -16,12 +16,20 @@ Programı geliştirmek istiyorsanız indirip geliştirebilirsiniz. Programın ya
 
 <h2>🧐 Özellikler</h2>
 
-![Screenshot_1](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/19fda60b-beb6-4d5d-b8c4-bb30d5b6d7d8)
-![Screenshot_2](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/c49735c8-9f46-4cca-9f52-bb5fff2ba5e2)
-![Screenshot_3](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/8ac39318-b570-4f67-a919-fe7e2f825d43)
-![Screenshot_4](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/e0e2e0f4-591e-4e12-9326-3f0711e3108b)
-![Screenshot_5](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/fc7cd66e-c352-4120-bd26-883ede241e7b)
-![Screenshot_6](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/db7c628d-2cdd-45cf-8686-708791bfb16a)
+| <b>Ekran Görüntüleri</b> |
+|---|
+| ![Screenshot_1](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/19fda60b-beb6-4d5d-b8c4-bb30d5b6d7d8) |
+| <p align="center"><b>Arayüz Tasarımı</b></p> |
+| ![Screenshot_2](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/c49735c8-9f46-4cca-9f52-bb5fff2ba5e2) |
+| <p align="center"><b>Görüntü 2</b></p> |
+| ![Screenshot_3](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/8ac39318-b570-4f67-a919-fe7e2f825d43) |
+| <p align="center"><b>Görüntü 3</b></p> |
+| ![Screenshot_4](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/e0e2e0f4-591e-4e12-9326-3f0711e3108b) |
+| <p align="center"><b>Görüntü 4</b></p> |
+| ![Screenshot_5](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/fc7cd66e-c352-4120-bd26-883ede241e7b) |
+| <p align="center"><b>Görüntü 5</b></p> |
+| ![Screenshot_6](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/db7c628d-2cdd-45cf-8686-708791bfb16a) |
+| <p align="center"><b>Görüntü 6</b></p> |
 
 #
 <b>Programcıdan Notlar</b>
