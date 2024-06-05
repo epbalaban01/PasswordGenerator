@@ -1,4 +1,20 @@
-# Rastgele Şifre Üretici Programı
+# Password Generator Program
+
+<p align="center"><img src="https://socialify.git.ci/epbalaban01/PasswordGenerator/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+
+<h2>Açıklama</h2>
+
+Windows form uygulamasını ve Visual Studio'yu kullanarak Password Generator Programı(Şifre Oluşturma) yaptım.
+
+Bu uygulama da eklediğiniz veya katıldığınız eğitimlere buraya yazarak daha kolay bir şekilde ulaşabilirsiniz. Normalde ben bunları excel'de tutuyordum. Ancak bugün eğitim olduğunu unutunca eğitimleri kaçırıryordum. Bende bunu hatırlatma programı yapmak istedim. Yaptığımda daha kolay bir şekilde ulaşabiliyorum. Bu program da toplamda 6 tane eğitim firması eklendi. Her bir eğitimleri veritabanına kaydederek kolay bir şekilde halledebiliyorum.
+
+Programı geliştirmek istiyorsanız indirip geliştirebilirsiniz. Programın yapabildiklerini ve ileride yapabileceklerini aşağıda belirttim. Program Visual Studio 2017 ortamında C# programlama dili kullanarak geliştirilmiştir.
+
+<b>Desteklenen Diller</b>
+- [x] Türkçe
+- [ ] İngilizce
+
+<h2>🧐 Özellikler</h2>
 
 Rastgele Şifre Üretici Programı gibi kaynak kodu oluşturmak için ihtiyacınız olan her şey burda. Visual Studio 2017 öncesi ve sonrası proje dosyaları dahildir.
 
