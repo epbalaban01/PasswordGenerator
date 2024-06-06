@@ -16,6 +16,17 @@ Programı geliştirmek istiyorsanız indirip geliştirebilirsiniz. Programın ya
 
 <h2>🧐 Özellikler</h2>
 
+- [x] Arayüzde tasarlandı.
+- [x] Şifre oluşturucu seçenekler sunuldu.
+- [x] Şifre oluşturduktan sonra not deftere kaydetmek için buton oluşturuldu
+ 
+<b>Eklenebilecek Özellikler</b>
+
+- [ ] Arayüz daha iyi bir şekilde geliştirebilirdi.
+- [ ] Ayarlar sayfası yapılabilirdi.
+- [ ] İngilizce dil eklenebilirdi.
+- [ ] Kaydetmek için veritabanına kaydedebilirdi
+
 | <b>Ekran Görüntüleri</b> |
 |---|
 | ![Screenshot_1](https://github.com/epbalaban01/PasswordGenerator/assets/42430554/19fda60b-beb6-4d5d-b8c4-bb30d5b6d7d8) |
